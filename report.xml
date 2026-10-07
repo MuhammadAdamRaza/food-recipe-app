@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="D:\xampp\htdocs\practiceproject\phpunit.xml" tests="2" assertions="5" errors="0" failures="0" skipped="0" time="0.381127">
+    <testsuite name="Feature" tests="2" assertions="5" errors="0" failures="0" skipped="0" time="0.381127">
+      <testsuite name="Tests\Feature\CustomerDashboardTest" file="D:\xampp\htdocs\practiceproject\tests\Feature\CustomerDashboardTest.php" tests="2" assertions="5" errors="0" failures="0" skipped="0" time="0.381127">
+        <testcase name="test_customer_dashboard_has_a_real_table_view" file="D:\xampp\htdocs\practiceproject\tests\Feature\CustomerDashboardTest.php" line="12" class="Tests\Feature\CustomerDashboardTest" classname="Tests.Feature.CustomerDashboardTest" assertions="3" time="0.347938"/>
+        <testcase name="test_registration_form_saves_all_customer_fields" file="D:\xampp\htdocs\practiceproject\tests\Feature\CustomerDashboardTest.php" line="21" class="Tests\Feature\CustomerDashboardTest" classname="Tests.Feature.CustomerDashboardTest" assertions="2" time="0.033188"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
